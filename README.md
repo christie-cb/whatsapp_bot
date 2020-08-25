@@ -23,3 +23,5 @@ Make sure your phone is connected to the internet.
 When you first run start_session, you'll need to scan the QR code to
 access whatsapp web. The script will save the session into a folder
 called 'session'. 
+
+Also, you will need to enter the path to chromedriver in start_session.
