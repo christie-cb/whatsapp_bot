@@ -8,7 +8,7 @@ I'm a lousy texter so I made this to schedule messages to my mum
 and to my bf. You can also use it to send reminders to yourself;
 simply add yourself as a contact and enter the contact as the recipient.
 
-### How to use
+<h2> How to use </h2>
 
 Put the contact name into the 'recipient' field. Write a message in
 messages.txt and it will get sent. If you want to randomly send one 
