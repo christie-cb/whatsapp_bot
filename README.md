@@ -4,8 +4,7 @@ You can use this to automatically send messages on WhatsApp.
 Put this script on your crontab and put some messages into messages.txt
 to schedule messages.
 
-I'm a lousy texter so I made this to schedule messages to my mum
-and to my bf. You can also use it to send reminders to yourself;
+You can also use it to schedule messages or to send reminders to yourself;
 simply add yourself as a contact and enter the contact as the recipient.
 
 <h2> How to use </h2>
